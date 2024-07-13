@@ -24,4 +24,4 @@ This project implements NER to identify and classify entities such as persons, o
 
 Here’s a brief example of the NER visualization:
 
-![NER Visualization](NER Output.png)
+![NER Visualization](NER_Output.png)
